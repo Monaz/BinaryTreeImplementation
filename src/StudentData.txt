@@ -1,0 +1,5 @@
+100003,John,Cena,Mathematics,English,Statistics,Business,3,3,2,3,A,B,A,C,11,3.21,
+100006,Michal,Jackson,English,Probability,Maths,Science,2,3,2,2,B,C,C,C,9,2.11,
+100001,Sam,Pan,Economics,SQA,Computer,English,3,3,3,3,A,A,B,A,12,3.78,
+100002,Mony,Morkel,Stats,Database,Java,Law,2,3,3,3,B,B,D,D,11,3.20,
+100005,Mike,Hussey,Programming,OOP,DSA,Stats,2,2,3,3,A,B,B,B,10,2.90,

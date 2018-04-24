@@ -1,0 +1,85 @@
+Record 1: 
+ID: 100001
+First Name: Sam
+Last Name: Pan
+Course 1: Economics
+Course 2: SQA
+Course 3: Computer
+Course 4: English
+Credit 1: 3
+Credit 2: 3
+Credit 3: 3
+Credit 4: 3
+Total Credits: 12
+Current gpa: 3.78
+
+
+
+Record 2: 
+ID: 100002
+First Name: Mony
+Last Name: Morkel
+Course 1: Stats
+Course 2: Database
+Course 3: Java
+Course 4: Law
+Credit 1: 2
+Credit 2: 3
+Credit 3: 3
+Credit 4: 3
+Total Credits: 11
+Current gpa: 3.2
+
+
+
+Record 3: 
+ID: 100003
+First Name: John
+Last Name: Cena
+Course 1: Mathematics
+Course 2: English
+Course 3: Statistics
+Course 4: Business
+Credit 1: 3
+Credit 2: 3
+Credit 3: 2
+Credit 4: 3
+Total Credits: 11
+Current gpa: 3.21
+
+
+
+Record 4: 
+ID: 100005
+First Name: Mike
+Last Name: Hussey
+Course 1: Programming
+Course 2: OOP
+Course 3: DSA
+Course 4: Stats
+Credit 1: 2
+Credit 2: 2
+Credit 3: 3
+Credit 4: 3
+Total Credits: 10
+Current gpa: 2.9
+
+
+
+Record 5: 
+ID: 100006
+First Name: Michal
+Last Name: Jackson
+Course 1: English
+Course 2: Probability
+Course 3: Maths
+Course 4: Science
+Credit 1: 2
+Credit 2: 3
+Credit 3: 2
+Credit 4: 2
+Total Credits: 9
+Current gpa: 2.11
+
+
+
